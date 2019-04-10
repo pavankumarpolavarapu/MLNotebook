@@ -5,6 +5,7 @@
 
 ### Singular Value Decomposition
 - Leskovec explanation on [Artificial Intelligence Channel](https://www.youtube.com/watch?v=P5mlg91as1c)
+    - Josh Starmer explanation of [PCA](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 
 
 ## Classifiers & Loss Functions
@@ -18,3 +19,6 @@
 
 ### Bayesian Inference
 - [Brandon Rohrer Introduction](https://www.youtube.com/watch?v=5NMxiOGL39M)
+
+### Kernel Density Estimation
+- By [Tommy](https://www.youtube.com/watch?v=x5zLaWT5KPs)
